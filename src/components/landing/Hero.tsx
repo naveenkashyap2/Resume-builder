@@ -10,7 +10,7 @@ import {
 } from "lucide-react";
 import { Button, Badge } from "../ui/primitives";
 import ResumePreview from "../resume/ResumePreview";
-import { SAMPLE_RESUME } from "../../data";
+import { SAMPLE_RESUME } from "../../Data";
 
 export default function Hero({ onLaunch }) {
   const ref = useRef(null);

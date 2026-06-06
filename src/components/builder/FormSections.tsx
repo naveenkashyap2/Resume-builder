@@ -3,7 +3,7 @@ import { Plus, Trash2, Copy, GripVertical, Sparkles } from "lucide-react";
 import { useResume, newId } from "../../context/ResumeContext";
 import { Field, TextArea } from "./Fields";
 import { Button } from "../ui/primitives";
-import { FONT_OPTIONS, ACCENT_OPTIONS, TEMPLATES } from "../../data";
+import { FONT_OPTIONS, ACCENT_OPTIONS, TEMPLATES } from "../../Data";
 import { cn } from "../../utils/cn";
 
 function ItemShell({ item, onRemove, onDuplicate, children }) {

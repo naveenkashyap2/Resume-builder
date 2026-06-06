@@ -11,7 +11,7 @@ import {
   Users,
   Settings,
 } from "lucide-react";
-import { SECTION_LIST } from "../../data";
+import { SECTION_LIST } from "../../Data";
 import { cn } from "../../utils/cn";
 
 const ICONS = {

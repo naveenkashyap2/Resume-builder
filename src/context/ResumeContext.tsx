@@ -5,7 +5,7 @@ import {
   useState,
   useCallback,
 } from "react";
-import { SAMPLE_RESUME } from "../data";
+import { SAMPLE_RESUME } from "../Data";
 
 const ResumeContext = createContext(null);
 

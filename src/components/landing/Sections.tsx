@@ -19,7 +19,7 @@ import {
   PRICING,
   FAQS,
   SAMPLE_RESUME,
-} from "../../data";
+} from "../../Data";
 import ResumePreview from "../resume/ResumePreview";
 import { cn } from "../../utils/cn";
 
